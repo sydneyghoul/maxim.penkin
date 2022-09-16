@@ -1,0 +1,27 @@
+{
+    "version": "https://jsonfeed.org/version/1",
+    "title": "Maxim Penkin",
+    "description": "",
+    "home_page_url": "https://sydneyghoul.github.io/maxim.penkin",
+    "feed_url": "https://sydneyghoul.github.io/maxim.penkin/feed.json",
+    "user_comment": "",
+    "author": {
+        "name": "Matthew &amp; Daniil"
+    },
+    "items": [
+        {
+            "id": "https://sydneyghoul.github.io/maxim.penkin/papa.html",
+            "url": "https://sydneyghoul.github.io/maxim.penkin/papa.html",
+            "title": "Папа",
+            "summary": "Привет",
+            "content_html": "<p>Привет</p>",
+            "author": {
+                "name": "Matthew &amp; Daniil"
+            },
+            "tags": [
+            ],
+            "date_published": "2022-09-16T23:37:48+10:00",
+            "date_modified": "2022-09-16T23:37:48+10:00"
+        }
+    ]
+}

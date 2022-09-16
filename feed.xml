@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+    <title>Maxim Penkin</title>
+    <link href="https://sydneyghoul.github.io/maxim.penkin/feed.xml" rel="self" />
+    <link href="https://sydneyghoul.github.io/maxim.penkin" />
+    <updated>2022-09-16T23:37:48+10:00</updated>
+    <author>
+        <name>Matthew &amp; Daniil</name>
+    </author>
+    <id>https://sydneyghoul.github.io/maxim.penkin</id>
+
+    <entry>
+        <title>Папа</title>
+        <author>
+            <name>Matthew &amp; Daniil</name>
+        </author>
+        <link href="https://sydneyghoul.github.io/maxim.penkin/papa.html"/>
+        <id>https://sydneyghoul.github.io/maxim.penkin/papa.html</id>
+
+        <updated>2022-09-16T23:37:48+10:00</updated>
+            <summary>
+                <![CDATA[
+                    Привет
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                <p>Привет</p>
+            ]]>
+        </content>
+    </entry>
+</feed>

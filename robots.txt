@@ -1,0 +1,3 @@
+User-agent: *
+Disallow:
+Sitemap: https://sydneyghoul.github.io/maxim.penkin/sitemap.xml
